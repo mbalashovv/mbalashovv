@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="left">Greetings 👋</h1>
 
-<!--
-**mbalashovv/mbalashovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/WS6CDvvyNDrhZRFBtT/giphy.gif" width="360" height="360"/>
 
-Here are some ideas to get you started:
+<div align="left">
+  <br>
+  
+  ### 📖 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 💻 Core Stack: **Python, JS/React**. Mainly focused on Backend & DevOps
+  - 🔥 Interested in Blockchain & DeFi
+    
+  ### 📫 Let's Connect
+  - [LinkedIn](https://linkedin.com/in/balashovv)
+  - [Telegram](https://t.me/alasitisme)
+  
+</div>
